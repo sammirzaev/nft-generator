@@ -138,7 +138,7 @@ const addMetadata = (_dna, _edition) => {
       dna: sha1(_dna),
       edition: _edition,
       date: dateTime,
-      compiler: "HashLips Art Engine",
+      compiler: "Pixel Men Art",
     },
     ...extraMetadata,
     attributes: attributesList,
